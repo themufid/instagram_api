@@ -1,0 +1,4 @@
+2024-04-21 13:48:21.908506 - Media type: image, URL: https://www.instagram.com/p/CxQcaUCS429/, File path: ./assets/result/image_2024-04-21_13-48-21.jpg
+2024-04-21 13:56:54.464904 - Media type: image, URL: https://www.instagram.com/p/CxQcaUCS429/, File path: ./assets/result/image_2024-04-21_13-56-54.jpg
+2024-04-21 14:03:41.586069 - Media type: video, URL: https://www.instagram.com/reel/C0kfc5wSQqo/?utm_source=ig_web_copy_link, File path: ./assets/result/video_2024-04-21_14-03-41.mp4
+2024-04-21 16:59:20.050139 - Media type: image, URL: https://www.instagram.com/p/CxQcaUCS429/, File path: ./assets/result/image_2024-04-21_16-59-20.jpg
